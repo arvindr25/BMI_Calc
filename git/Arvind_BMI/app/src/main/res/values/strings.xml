@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arvind_BMI</string>
+    <string name="bmi_weight">Weight in KG:</string>
+    <string name="bmi_height">Height in CM:</string>
+    <string name="bmi_calc_button">Calculate BMI</string>
+
+</resources>
