@@ -1,7 +1,3 @@
 # BMI_Calc
 This is a Simple APP to Find the BMI no.
-
-wait for further updates.
-
-
-Thanks
+Task 0 v_3 After the brutal defeat of the Avengers in Infinity war, Thor lost hope in undoing the wrongs that Thanos had done. He instead took to drinking alcohol and playing fortnite all day and all night in home town of Thor. However since Tony Stark came up with a way to travel through time, avenging Thanos became a real possibility. There was only one problem for Thor. Time travel could not make his beer-belly go away. He was mocked by his long dead mother, Groot and countless other teammates. Moreover he had to hide away from his love interest, Jane back home in Asgard. Even after defeating Thanos, Thor's celebratory spirit was dampened by this reality. He has now made his mind to exercise, lose all his extra kilos, and get back the iconic physique which suits a God of Thunder. Now, only one problem remains. Thor has no way of tracking his weight loss journey. Dr. Strange suggests he use the well known BMI metric to check his progress. Your task is to make a BMI Calculator App for Thor to use.
